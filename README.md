@@ -14,7 +14,7 @@ A simple and elegant marketing template built as part of an internship task. Thi
 - **Responsive Web Design** (using media queries)
 
 
-## 📁 Folder Structure
+## Folder Structure
 ```
 Softy Pinko/
 ├── assets/ 
