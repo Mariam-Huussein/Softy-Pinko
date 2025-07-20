@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Softy Pinko Template 
 
 A simple and elegant marketing template built as part of an internship task. This template can be used for creating marketing landing pages, showcasing products, or gathering user inputs through interactive forms.
@@ -35,4 +34,3 @@ Softy Pinko/
 
 ## Inspired by
 - [Softy Pinko Template](https://templatemo.com/templates/templatemo_535_softy_pinko/)
->>>>>>> 10ffc6c93c16af5ffe957b8191b8eb242a83b279
